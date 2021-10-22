@@ -14,13 +14,13 @@
       <v-col
         v-for="n in 1"
         :key="n"
-        color="purple darken-4"
+        color="primary"
         class="d-flex justify-space-around flex-wrap"
       >
         <v-card
           class="pa-2 elevation-0"
           tile  
-          color="purple darken-4"
+          color="primary"
           width="250px"
           height="200px"
         >
@@ -33,6 +33,7 @@
 
             <div class="d-flex flex-column">
               <img class="ma-5" src="../../public/img/twitter.png" alt="Icone Twitter">
+              <img class="ma-5" src="../../public/img/linkedin.png" alt="Icone Linkedin">
 
               <img class="ma-5" src="../../public/img/youtube.png" alt="Icone Youtube">
             </div>
@@ -72,7 +73,7 @@
           class="pa-2 elevation-0"
           tile
           width="250px"
-          color="purple darken-4"
+          color="primary"
         >
           <div class="d-flex justify-center mt-n3">
           <v-card-title class="white--text mb-2 font-weight-bold">
@@ -92,7 +93,7 @@
           </v-card-text>
           
           <v-card-text class="subtitle-1 mt-n4 white--text d-flex justify-center" >
-            fatectqsi2019@gmail.com
+            fatectqsi20196165@gmail.com
           </v-card-text>
           </div> 
         </v-card>
@@ -128,7 +129,7 @@
 
 <style>
   .cor{
-    background-color: rgb(48, 45, 45);
+    background-color: rgb(43, 40, 25);
   }
 </style>
 
